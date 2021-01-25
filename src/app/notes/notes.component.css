@@ -1,0 +1,12 @@
+article {
+    padding: 10px;
+    height: 90%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+section.notes {
+    max-height: 80%;
+    overflow-y: scroll;
+}

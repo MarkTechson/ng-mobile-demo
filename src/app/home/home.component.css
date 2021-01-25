@@ -1,0 +1,11 @@
+article {
+    padding: 10px;
+}
+
+.hero {
+    width: 100%;
+}
+
+mat-form-field {
+    display: block;
+}
